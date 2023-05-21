@@ -1,4 +1,6 @@
 # Boogiehunt-flash-ruffle-pwa
+https://savolai.net/case-studies/apps/the-great-boogie-hunt/
+
 A demo of converting a legacy Flash game to a Progressive Web App with manifest and web worker
 
 This is an SWF file from 2003 that's been made modern browser webassembly compatible using Ruffle, and then into a PWA using pwabuilder.
